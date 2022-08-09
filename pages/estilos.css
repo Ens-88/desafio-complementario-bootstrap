@@ -1,0 +1,48 @@
+.navbar{
+    height: 150px;
+}
+.navbar-brand{
+    font-size: 40px;
+}
+#collapsibleNavbar{
+    justify-content: end;
+}
+.main{
+    background-color: rgb(255, 204, 101);
+    padding: 50px;
+}
+.mainB{
+    padding: 25px;
+    color: white;
+    height: 1000px;
+}
+.main-galeria{
+    background-color: rgb(255, 204, 101);
+    padding: 20px;
+}
+.main-contacto{
+    background-color: rgb(255, 204, 101);
+    padding: 20px;
+    height: 1000px;
+}
+
+.row-galeria{
+    background-color: rgb(255, 204, 101);
+    padding: 20px;
+}
+h3{
+    padding: 20px;
+}
+.footer{
+    height: 150px;
+    color: white;
+    padding: 30px;
+}
+.footer-links{
+    font-size: 30px;
+    color: white;
+}
+a.visited{
+    color: white;
+}
+
